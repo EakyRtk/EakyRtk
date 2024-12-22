@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @EakyRtk
 - 👀 I’m interested in game development, art, and music
-- 🌱 I’m currently learning Godot
-- 📫 How to reach me https://bio.link/eakyrtk
+- Godot Developer
+- 📫 Check out my [website](https://eakyrtk.com) for blogs and art 
