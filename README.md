@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EakyRtk
+- 👋 Hi, I’m Yusuf @EakyRtk
 - 👀 I’m interested in game development, art, and music
 - Godot Developer
-- 📫 Check out my [website](https://eakyrtk.com) for blogs and art 
+- 📫 Check out my [website](https://eakyrtk.com) for my blogs and art 
