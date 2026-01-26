@@ -23,7 +23,7 @@ I recommend checking my games not only for the games but I also design custom CS
 - **My System:** Linux (CachyOS), RTX3080, RAM 16GB, i5-12400F
 - **Engine:** Godot 4.5
 - **Editors:** VSCode, ZED
-- _**Art:**_ Krita, Aseprite, Inkscape
+- _**Art:**_ Krita, Aseprite, Inkscape | **Hardware:** XP-Pen Deco01
 - **Vim Btw**
 
 ## 📬 Contact
