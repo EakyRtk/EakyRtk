@@ -11,6 +11,7 @@ The games I'm proud of their site design, would be happy if you check it out!
 
 <img src="profile/assets/observerlogo.png" width=320, height=auto align="left">
     
+<br clear="left"/>
 ### Art
 
 ## Currently Learning
