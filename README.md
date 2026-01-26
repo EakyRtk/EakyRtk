@@ -1,33 +1,30 @@
-# Yusuf 'EakyRtk'
-## <img src="profile/assets/book.png" alt="Book Icon" width="32" height="32"> About Me
+# Yo, I'm Yusuf 'EakyRtk'
+## *A b o u t   M e*
 
-I'm Yusuf 'EakyRtk', game developer and artist. Currently making a strategic rogue-like deck builder. I'm always looking forward to learn new stuff and make different things. I love open-source community and currently active in Godot Turkiye community, teaching interested people about the Godot Engine ^^
+Game developer and artist. Currently making a strategic rogue-like deck builder with a team. I'm always looking forward to learn new stuff and make different things. I love open-source softwares and so we found Godot Turkiye community for Turkish people to interact and learn the Godot Engine ^^
 
-## My Stuff
-### Games
-[My games chilling in itch.io](https://eakyrtk.itch.io/)
+##       *M y   S t u f f*
+### 🎮 *[My games chilling in itch.io](https://eakyrtk.itch.io/)*
 
-The games I'm proud of their site design, would be happy if you check it out!
+I recommend checking my games not only for the games but I also design custom CSS on my itch.io pages!
 
 <img src="profile/assets/observerlogo.png" width=320, height=auto align="left">
     
-[Observer in Hypnopompia](https://eakyrtk.itch.io/observer-in-hypnopompia)
+### 🖌️ *[Some of my art resting on my website](https://eakyrtk.com/my-art/)*
 
-<br clear="left"/>
+<img src="profile/assets/some_art.png" width=320, height=auto align="left">
 
-
-### Art
-
-## Currently Learning
+## 📚 Currently Learning
 - Doing shaders in Godot
 - Doing plugins for Godot
 - PixiJS
 
-## Hardware & Software
+## 💻 Hardware & Software
 - **My System:** Linux (CachyOS), RTX3080, RAM 16GB, i5-12400F
 - **Engine:** Godot 4.5
 - **Editors:** VSCode, ZED
+- **Vim Btw**
 
-## Contact
+## 📬 Contact
 - **Discord:** eakyrtk
 - **E-mail:** EakyLeRtk@proton.me
