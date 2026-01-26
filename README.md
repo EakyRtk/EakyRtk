@@ -8,11 +8,11 @@ Game developer and artist. Currently making a strategic rogue-like deck builder 
 
 I recommend checking my games not only for the games but I also design custom CSS on my itch.io pages!
 
-<img src="profile/assets/observerlogo.png" width=320, height=auto align="left">
+<img src="profile/assets/observerlogo.png" width=320, height=auto >
     
 ### 🖌️ *[Some of my art resting on my website](https://eakyrtk.com/my-art/)*
 
-<img src="profile/assets/some_art.png" width=320, height=auto align="left">
+<img src="profile/assets/some_art.png" width=320, height=auto>
 
 ## 📚 Currently Learning
 - Doing shaders in Godot
