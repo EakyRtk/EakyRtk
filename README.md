@@ -1,4 +1,2 @@
-- 👋 Hi, I’m Yusuf @EakyRtk
-- 👀 I’m interested in game development, art, and music
-- Godot Developer
-- 📫 Check out my [website](https://eakyrtk.com) for my blogs and art 
+# Yusuf 'EakyRtk'
+## <img src="profile/assets/book.png" alt="Book Icon" width="64" height="64"> About Me
