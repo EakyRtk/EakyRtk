@@ -9,7 +9,8 @@ I'm Yusuf 'EakyRtk', game developer and artist. Currently making a strategic rog
 
 The games I'm proud of their site design, would be happy if you check it out!
 
-<img src="profile/assets/observerlogo.png">(https://eakyrtk.itch.io/observer-in-hypnopompia)
+[Observer in Hypnopompia](https://eakyrtk.itch.io/observer-in-hypnopompia)
+<img src="profile/assets/observerlogo.png" width=320, height=auto>
 ### Art
 
 ## Currently Learning
