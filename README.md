@@ -17,7 +17,7 @@ I recommend checking my games not only for the games but I also design custom CS
 ## 📚 Currently Learning
 - Doing shaders in Godot
 - Doing *[plugins](https://github.com/EakyRtk/MkFolders)* for Godot
-- PixiJS
+- PixiJS, C++
 
 ## 💻 Hardware & Software
 - **My System:** Linux (CachyOS), RTX3080, RAM 16GB, i5-12400F
