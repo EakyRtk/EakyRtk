@@ -8,12 +8,6 @@ Game developer and artist. Currently making a strategic rogue-like deck builder 
 
 I recommend checking my games not only for the games but I also design custom CSS on my itch.io pages!
 
-<img src="profile/assets/observerlogo.png">
-    
-### 🖌️ *[Some of my art resting on my website](https://eakyrtk.com/my-art/)*
-
-<img src="profile/assets/some_art.png">
-
 ## 📚 Currently Learning
 - Doing shaders in Godot
 - Doing *[plugins](https://github.com/EakyRtk/MkFolders)* for Godot
@@ -25,6 +19,13 @@ I recommend checking my games not only for the games but I also design custom CS
 - **Editors:** VSCode, ZED
 - _**Art:**_ Krita, Aseprite, Inkscape | **Hardware:** XP-Pen Deco01
 - **Vim Btw**
+
+<img src="profile/assets/observerlogo.png">
+    
+### 🖌️ *[Some of my art resting on my website](https://eakyrtk.com/my-art/)*
+
+<img src="profile/assets/some_art.png">
+
 
 ## 📬 Contact
 - **Discord:** eakyrtk
